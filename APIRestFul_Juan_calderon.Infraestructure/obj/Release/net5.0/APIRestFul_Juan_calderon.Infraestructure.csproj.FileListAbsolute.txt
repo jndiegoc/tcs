@@ -1,0 +1,15 @@
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\bin\Release\net5.0\APIRestFul_Juan_calderon.Infraestructure.deps.json
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\bin\Release\net5.0\APIRestFul_Juan_calderon.Infraestructure.dll
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\bin\Release\net5.0\ref\APIRestFul_Juan_calderon.Infraestructure.dll
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\bin\Release\net5.0\APIRestFul_Juan_calderon.Infraestructure.pdb
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\bin\Release\net5.0\APIRestFul_juan_calderon.Core.dll
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\bin\Release\net5.0\APIRestFul_juan_calderon.Core.pdb
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\obj\Release\net5.0\APIRestFul_Juan_calderon.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\obj\Release\net5.0\APIRestFul_Juan_calderon.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\obj\Release\net5.0\APIRestFul_Juan_calderon.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\obj\Release\net5.0\APIRestFul_Juan_calderon.Infraestructure.AssemblyInfo.cs
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\obj\Release\net5.0\APIRestFul_Juan_calderon.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\obj\Release\net5.0\APIRestFul_Juan_calderon.Infraestructure.csproj.CopyComplete
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\obj\Release\net5.0\APIRestFul_Juan_calderon.Infraestructure.dll
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\obj\Release\net5.0\ref\APIRestFul_Juan_calderon.Infraestructure.dll
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_Juan_calderon.Infraestructure\obj\Release\net5.0\APIRestFul_Juan_calderon.Infraestructure.pdb

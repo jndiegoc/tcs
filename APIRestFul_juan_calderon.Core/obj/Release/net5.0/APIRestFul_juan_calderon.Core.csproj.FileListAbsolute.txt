@@ -1,0 +1,12 @@
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_juan_calderon.Core\bin\Release\net5.0\APIRestFul_juan_calderon.Core.deps.json
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_juan_calderon.Core\bin\Release\net5.0\APIRestFul_juan_calderon.Core.dll
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_juan_calderon.Core\bin\Release\net5.0\ref\APIRestFul_juan_calderon.Core.dll
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_juan_calderon.Core\bin\Release\net5.0\APIRestFul_juan_calderon.Core.pdb
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_juan_calderon.Core\obj\Release\net5.0\APIRestFul_juan_calderon.Core.csproj.AssemblyReference.cache
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_juan_calderon.Core\obj\Release\net5.0\APIRestFul_juan_calderon.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_juan_calderon.Core\obj\Release\net5.0\APIRestFul_juan_calderon.Core.AssemblyInfoInputs.cache
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_juan_calderon.Core\obj\Release\net5.0\APIRestFul_juan_calderon.Core.AssemblyInfo.cs
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_juan_calderon.Core\obj\Release\net5.0\APIRestFul_juan_calderon.Core.csproj.CoreCompileInputs.cache
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_juan_calderon.Core\obj\Release\net5.0\APIRestFul_juan_calderon.Core.dll
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_juan_calderon.Core\obj\Release\net5.0\ref\APIRestFul_juan_calderon.Core.dll
+C:\Users\jgarzon\source\repos\APIRestFul_juan_calderon.API\APIRestFul_juan_calderon.Core\obj\Release\net5.0\APIRestFul_juan_calderon.Core.pdb
